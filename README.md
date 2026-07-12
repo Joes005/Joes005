@@ -6,7 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=LEVIN%20JOESHWA%20X&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%40%20Inpand%20Technologies&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:2C5364,100:00F7FF&text=LEVIN%20JOESHWA%20X&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=50&descAlignY=55&descSize=18" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=00F7FF&label=Profile%20Status&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjoes005&style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0F2027" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0F2027&color=2C5364" />
+  <img src="https://img.shields.io/badge/Available%20for%20Freelance-A855F7?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0F2027" />
 </p>
 
 <p align="center">
@@ -16,13 +22,17 @@
   <a href="mailto:levinjoeshwa005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+</p>
+
 ---
 
 ### 💫 About Me
 
 ```yaml
 name: Levin Joeshwa X
-role: Backend Developer @ Inpand Technologies
+role: Backend Developer | Full Stack Engineer | Freelancer
 education: B.Tech AI & Data Science, Mahendra College of Engineering (2022 - 2026)
 focus: Node.js / Express / MongoDB | Python / FastAPI | REST APIs
 currently_building: Finvels — MERN Stack Microfinance LMS (7 RBAC roles, 130+ endpoints)
@@ -31,7 +41,12 @@ location: Tamil Nadu, India
 fun_fact: Ships complete replacement files, not snippets 😄
 ```
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
+</p>
+
 - 🔭 Currently building **Finvels** — a full-scale microfinance loan management system (MERN stack) with role-based access for Admin, HR, Branch Manager, Relationship Manager, Quality Checker, and Auditor.
+- 💼 Available for **freelance projects** — full-stack builds, backend APIs, and web development, delivered through **Inkframe Studio**.
 - 🌱 Deepening skills in **Cloud & DevOps** — AWS (EC2, S3, Lambda), Docker, CI/CD pipelines.
 - 🎨 Co-run **Inkframe Studio**, a freelance creative group — logos, posters, web dev, and content.
 - 📝 Write dev notes and tech thoughts on my blog — [livesparkdaily.blogspot.com](https://livesparkdaily.blogspot.com)
@@ -45,6 +60,26 @@ fun_fact: Ships complete replacement files, not snippets 😄
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,react,js,html,css,mongodb,mysql,postgres,aws,docker,linux,git,github,jenkins,figma&perline=9" />
 </p>
+
+<table align="center">
+<tr><td>
+
+**Backend Development**
+<br>
+![Progress](https://progress-bar.xyz/92/?title=Node.js%20%2F%20Express&width=280&color=00F7FF&suffix=%25)
+![Progress](https://progress-bar.xyz/85/?title=FastAPI%20%2F%20Python&width=280&color=00F7FF&suffix=%25)
+![Progress](https://progress-bar.xyz/88/?title=REST%20API%20Design&width=280&color=00F7FF&suffix=%25)
+
+</td><td>
+
+**Databases & Cloud**
+<br>
+![Progress](https://progress-bar.xyz/87/?title=MongoDB&width=280&color=A855F7&suffix=%25)
+![Progress](https://progress-bar.xyz/78/?title=PostgreSQL%20%2F%20MySQL&width=280&color=A855F7&suffix=%25)
+![Progress](https://progress-bar.xyz/70/?title=AWS%20%2F%20Docker&width=280&color=A855F7&suffix=%25)
+
+</td></tr>
+</table>
 
 <details>
 <summary>📋 Full Skills Breakdown</summary>
@@ -101,11 +136,11 @@ AI-based web app predicting heart attack risk from retinal blood vessel images. 
 </td>
 <td width="50%">
 
-**🎨 Inkframe Studio**
+**🎨 Inkframe Studio — Freelance Collective**
 <br>
-Freelance creative collective offering logo design, poster/banner creation, web development, and article writing for small businesses and startups.
+Co-founded freelance creative group delivering logo design, poster/banner creation, custom web development, and article writing for small businesses & startups. Open for new freelance projects.
 
-`Design` `Web Dev` `Branding`
+`Freelance` `Web Dev` `Branding` `Design`
 
 </td>
 </tr>
@@ -120,16 +155,20 @@ Freelance creative collective offering logo design, poster/banner creation, web 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joes005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=joes005&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joes005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&icon_color=00F7FF&title_color=00F7FF" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=joes005&theme=radical&hide_border=true&ring=00F7FF&fire=A855F7&currStreakLabel=00F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joes005&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joes005&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=00F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joes005&theme=react-dark&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joes005&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=A855F7&point=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Currently+Focused+On&align=center&lineCount=1&line1=nodedotjs,Node.js,00F7FF;mongodb,MongoDB,A855F7;react,React,61DAFB;fastapi,FastAPI,05998b;" />
 </p>
 
 ---
@@ -137,7 +176,11 @@ Freelance creative collective offering logo design, poster/banner creation, web 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joes005&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joes005&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </p>
 
 ---
@@ -145,16 +188,15 @@ Freelance creative collective offering logo design, poster/banner creation, web 
 ### 🎯 Goal
 
 <p align="center">
-  <strong>Become a Backend & Cloud Engineer at a Product-Based Company</strong> —
-  building secure, scalable, high-performance systems.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=Become+a+Backend+%26+Cloud+Engineer;Build+secure%2C+scalable%2C+high-performance+systems;Grow+into+a+Product-Based+Engineering+Role" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joes005&style=for-the-badge&color=00F7FF" />
+  <img src="https://komarev.com/ghpvc/?username=joes005&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2C5364,100:0F2027&height=120&section=footer" />
 </p>
