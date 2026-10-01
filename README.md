@@ -32,3 +32,28 @@ I'm continuously learning new technologies, working on practical projects, and t
 📈 **Digital Marketing**
 
 </div>
+
+
+<br>
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
+
+<br><br>
+
+### 🚀 Frameworks & Technologies
+
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,laravel,fastapi" />
+
+<br><br>
+
+### 🗄️ Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode,postman" />
+
+</div>
