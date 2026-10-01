@@ -57,3 +57,38 @@ I'm continuously learning new technologies, working on practical projects, and t
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode,postman" />
 
 </div>
+
+
+<br>
+
+## 🚀 What I Build
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🌐 Web Applications
+
+Modern, responsive and scalable web applications with clean architecture and great user experience.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI-Powered Solutions
+
+Practical AI integrations, automation systems and intelligent tools that solve real-world problems.
+
+</td>
+
+<td width="33%" align="center">
+
+### 📈 Digital Experiences
+
+Websites, digital solutions and marketing-focused experiences that help businesses grow online.
+
+</td>
+
+</tr>
+</table>
