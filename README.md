@@ -30,7 +30,6 @@
 
 <br>
 
----
 
 <!-- ========================== ABOUT ========================== -->
 
@@ -62,7 +61,7 @@ My approach is simple:
 - ☁️ Learning cloud and deployment technologies
 - 🧠 Continuously improving my technical skills
 
----
+
 
 <!-- ========================== QUICK INFO ========================== -->
 
@@ -74,7 +73,7 @@ My approach is simple:
 
 ### 👨‍💻 Developer
 
-```text
+
 Role        : Software Developer
 Focus       : Web & Backend Development
 Interests   : AI • APIs • SaaS
