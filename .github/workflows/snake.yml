@@ -14,12 +14,13 @@ jobs:
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Joes005
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=22D3EE&color_dots=161B22,16324F,1E5A7A,22A6C3,22D3EE
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=22D3EE&color_dots=161B22,16324F,1E5A7A,22A6C3,22D3EE
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=22D3EE
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=22D3EE
+            dist/github-contribution-grid-snake.gif?color_snake=22D3EE&color_dots=161B22,16324F,1E5A7A,22A6C3,22D3EE&color_background=0D1117
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v4
