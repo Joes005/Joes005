@@ -232,7 +232,7 @@ A role-based school management platform covering administration, staff, students
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Joes005/Joes005/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Joes005/Joes005/output/github-contribution-grid-snake.gif" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
