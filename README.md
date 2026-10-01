@@ -1,80 +1,64 @@
 <div align="center">
 
-<!-- ========================== HERO ========================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:164e63,100:06b6d4&height=250&section=header&text=LEVIN%20JOESHWA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20DIGITAL%20MARKETER&descAlignY=58&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,55:164e63,80:0891b2,100:22d3ee&text=LEVIN%20JOESHWA&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20DIGITAL%20MARKETER&descSize=18&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Software+Developer+%F0%9F%92%BB;Digital+Marketer+%F0%9F%93%88;Full+Stack+Web+Developer+%F0%9F%9A%80;Backend+%26+API+Developer+%E2%9A%A1;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+SaaS+%26+Business+Solutions+%F0%9F%8F%97%EF%B8%8F;Turning+Ideas+Into+Digital+Products+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=%3C+BUILDING+DIGITAL+EXPERIENCES+%2F%3E;%3C+SOFTWARE+%7C+AI+%7C+WEB+%7C+SAAS+%2F%3E;%3C+TURNING+IDEAS+INTO+REAL+PRODUCTS+%2F%3E;%3C+LEARNING+%E2%86%92+BUILDING+%E2%86%92+IMPROVING+%E2%86%92+REPEATING+%2F%3E" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Software%20Developer-06B6D4?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Digital%20Marketer-8B5CF6?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Explorer-EC4899?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/SaaS%20Builder-22C55E?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 <br><br>
 
 <a href="https://levinjoeshwa.com">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-06B6D4?style=for-the-badge&labelColor=020617"/>
 </a>
 
 <a href="https://www.linkedin.com/in/levinjoeshwa/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge&labelColor=020617"/>
 </a>
 
 <a href="https://github.com/Joes005">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚡%20GITHUB-Joes005-ffffff?style=for-the-badge&labelColor=020617"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Joes005&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Joes005&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
-
-<!-- ========================== ABOUT ========================== -->
+---
 
 <div align="center">
 
-## 👋 Hello, I'm Levin Joeshwa
-
-### `Software Developer` · `Digital Marketer` · `Technology Enthusiast`
+# 🧬 DIGITAL IDENTITY
 
 </div>
 
-I'm **Levin Joeshwa**, a Software Developer and Digital Marketer from **Karur, Tamil Nadu, India**.
-
-I enjoy turning ideas into **practical software products**, building modern web applications, developing backend systems, exploring AI, and helping businesses establish a stronger digital presence.
-
-My approach is simple:
-
-> **Understand the problem → Build the solution → Test it → Improve it → Deliver value.**
-
-### 💡 What I'm passionate about
-
-- 💻 Building modern web applications
-- ⚙️ Designing backend systems and REST APIs
-- 🗄️ Working with databases and business data
-- 🤖 Exploring AI-powered applications
-- 🚀 Building SaaS and business solutions
-- 📈 Learning Digital Marketing and SEO
-- 🎨 Creating modern digital experiences
-- ☁️ Learning cloud and deployment technologies
-- 🧠 Continuously improving my technical skills
-
-
-
-<!-- ========================== QUICK INFO ========================== -->
-
-## ⚡ Quick Introduction
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👨‍💻 Developer
+### 👨‍💻 SOFTWARE
 
-
-Role        : Software Developer
-Focus       : Web & Backend Development
-Interests   : AI • APIs • SaaS
-Architecture: REST • MVC • RBAC
+```text
+┌─────────────────────────────┐
+│                             │
+│   SOFTWARE DEVELOPER        │
+│                             │
+│   Web Applications          │
+│   Backend Systems           │
+│   REST APIs                 │
+│   Database Architecture     │
+│   Business Applications     │
+│   SaaS Products             │
+│                             │
+└─────────────────────────────┘
