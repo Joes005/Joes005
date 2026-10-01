@@ -1,4 +1,48 @@
+<!-- ======================= HEADER ======================= -->
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Levin%20Joeshwa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Digital%20Marketer&descAlignY=58&descSize=20" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Digital+Marketer+%F0%9F%93%88;Building+Modern+Web+Applications+%F0%9F%9A%80;Exploring+AI+%26+Automation+%F0%9F%A4%96;Turning+Ideas+Into+Digital+Products+%E2%9C%A8" />
+
+<br><br>
+
+<a href="https://levinjoeshwa.com">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-levinjoeshwa.com-06b6d4?style=for-the-badge&labelColor=0f172a"/>
+</a>
+
+<a href="https://www.linkedin.com/in/levinjoeshwa/">
+<img src="https://img.shields.io/badge/LinkedIn-Levin%20Joeshwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/>
+</a>
+
+<a href="https://github.com/Joes005">
+<img src="https://img.shields.io/badge/GitHub-Joes005-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+<!-- ======================= ABOUT ======================= -->
+
+## 👋 About Me
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   I'm Levin Joeshwa — a Software Developer & Digital       │
+│   Marketer from Karur, Tamil Nadu, India.                  │
+│                                                             │
+│   I enjoy turning ideas into practical digital products,   │
+│   building modern web applications, and helping businesses │
+│   grow through technology and digital marketing.            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘<div align="center">
 
 # 👋 Hi, I'm Levin Joeshwa
 
